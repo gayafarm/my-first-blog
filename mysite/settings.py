@@ -26,6 +26,7 @@ SECRET_KEY = '0&g0=btz=m-2b^gn#1$(lr1uo-f0ib2*)btcm+)++5-&&8s2z%'
 DEBUG = True
 
 ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com']
+LOGIN_REDIRECT_URL = '/'
 
 
 # Application definition
